@@ -1,0 +1,25 @@
+.ide-carousel {
+  width: 30vw;
+  height: 80vh;
+  margin: auto;
+  background-color: blue;
+  margin-top: 8vh;
+  margin-bottom: 6vh;
+  position: fixed;
+}
+
+.ide-carousel-img {
+  margin: auto;
+  display: block;
+  height:  80vh;
+}
+
+
+.hr-carousel {
+  width: 30vw;
+  height: 13vw;
+}
+
+.hr-carousel-img {
+  height: 13vw;
+}

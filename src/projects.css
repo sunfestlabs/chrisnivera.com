@@ -1,0 +1,19 @@
+.proj-title {
+  position: relative;
+  margin-top: 16vh;
+}
+
+.proj-text{
+  margin-left: 16vw;
+  width: 68vw;
+}
+
+.proj-img {
+  display: block;
+  margin: auto;
+  padding: 2vw;
+}
+
+.proj-section {
+  margin-top: 8vh;
+}

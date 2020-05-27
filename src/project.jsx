@@ -1,0 +1,30 @@
+import React, { Component } from 'react';
+import {Route, Link, BrowserRouter as Router} from 'react-router-dom';
+import './project.css'
+
+
+
+class Project extends Component {
+
+  render(){
+    return(
+
+      <div className="projectile" id={this.props.id}>
+        <img src={this.props.img} className="image" id={this.props.imgid}/>
+        <Link to={this.props.url}>
+        <div className="overlay">
+          <div className="text">
+            <div className="name">{this.props.name}</div>
+            <div className="subtitle">{this.props.subtitle}</div>
+          </div>
+        </div>
+        </Link>
+      </div>
+
+    );
+  }
+
+}
+
+
+export default Project;
