@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The website isn't currently live yet - for now, I've got my old portfolio website live @ chrisnivera.com if you want to check that out!
 
 ## Available Scripts
 
