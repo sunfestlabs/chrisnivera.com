@@ -23,7 +23,10 @@
 
 .projects{
   display: grid;
-  grid-template-columns: 30vw 30vw;
-  grid-column-gap: 2%;
+  grid-template-columns: 35vw 35vw;
+  grid-column-gap: 2vw;
+  grid-row-gap: 1.2vw;
   margin-left: 16vw;
+  margin-right: 12vw;
+  margin-bottom: 5vh;
 }
