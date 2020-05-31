@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import Navigation from './navigation.jsx';
 import './navigation.css';
-import './projects.css';
+import './article.css';
 import me_thumb from './media/ide/me_thumbnail.png';
 import lofi1 from './media/ide/lofi1.PNG';
 import lofi2 from './media/ide/lofi2.PNG';

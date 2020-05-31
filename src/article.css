@@ -3,9 +3,14 @@
   margin-top: 16vh;
 }
 
+.proj-title-2 {
+  margin-bottom: 3vh;
+}
+
 .proj-text{
   margin-left: 16vw;
   width: 68vw;
+  margin-bottom: 15vh;
 }
 
 .proj-img {
@@ -16,4 +21,5 @@
 
 .proj-section {
   margin-top: 8vh;
+  margin-bottom: 6vh;
 }

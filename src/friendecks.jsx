@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import Navigation from './navigation.jsx';
 import './navigation.css';
-import './projects.css';
+import './article.css';
 import './friendecks.css'
 import fd_icon from './media/friendecks/fd-icon.png';
 import fd_lofi from './media/friendecks/fd-lofi.png';
