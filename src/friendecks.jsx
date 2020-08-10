@@ -4,7 +4,6 @@ import './Navigation.css';
 import './Article.css';
 import './Friendecks.css'
 import fd_icon from './media/friendecks/fd-icon.png';
-import fd_lofi from './media/friendecks/fd-lofi.png';
 import fd_chip1 from './media/friendecks/fd-chip-front.png';
 import fd_chip2 from './media/friendecks/fd-chip-back.png';
 import fd_hifi1 from './media/friendecks/fd-hifi-1.png';

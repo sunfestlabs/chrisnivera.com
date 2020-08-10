@@ -41,7 +41,7 @@ class IterativeDesign extends Component {
         <div className="proj-section">
           <h2 className="proj-title-2">Context</h2>
           <p>The "Iterative Design" project was a group endeavor for CSCI 1300 (User Interfaces and User Experience), a course at Brown University. Our task was to choose an idea from a list of startups and design a user interface for that product, from scratch. My team consisted of three other CSCI 1300 students:
-            <a href="http://heidierwin.com/" target="_blank"> Heidi Erwin</a>, Justin Chen, and Gregory Dahl.</p>
+            <a href="http://heidierwin.com/" target="_blank" rel="noopener noreferrer"> Heidi Erwin</a>, Justin Chen, and Gregory Dahl.</p>
 
         </div>
 
@@ -160,7 +160,7 @@ class IterativeDesign extends Component {
             <div></div>
 
           <p>Our next step was to consolidate these sketches and create a hi-fi prototype for testing. Some images are shown below, but feel free to play around with it yourself at
-             <a href="https://www.figma.com/file/Rw4QTnkbQAVuBprEA8lmil5g/Iterative-Design" target="_blank"> this link!</a>
+             <a href="https://www.figma.com/file/Rw4QTnkbQAVuBprEA8lmil5g/Iterative-Design" target="_blank" rel="noopener noreferrer"> this link!</a>
           </p>
 
           <p>With regards to the home screen, we imagined users traveling in their spaceship to different "space stations" (communities), in order to find other "space travelers" (friends), mainly drawing inspiration from the isometric house and personal ship sketches. Because self-expression is a priority for us, we placed the spaceship with the avatar at the center, hinting at its clickability with a green halo. Listed below the ship are geographically close space stations. Additionally, to bolster both learnability and memorability, we use a combination of icons and text to provide visual recognition and ease of first use.

@@ -18,7 +18,7 @@ class Stopwatch extends Component {
 
           <div className="proj-section">
             <h2 className="proj-title-2">Context</h2>
-            <p>With over <a href="https://www.eurogamer.net/articles/2019-09-18-league-of-legends-hits-8m-concurrent-players-every-day" target="_blank">8 million concurrent players</a> daily, League of Legends presents itself as one of the most popular games on the planet.
+            <p>With over <a href="https://www.eurogamer.net/articles/2019-09-18-league-of-legends-hits-8m-concurrent-players-every-day" target="_blank" rel="noopener noreferrer">8 million concurrent players</a> daily, League of Legends presents itself as one of the most popular games on the planet.
             League, for short, is an action/strategy game that pits teams of 5 players against one another. Each player controls a single character called a "Champion", and each team's players work together to invade the enemy base and destroy the "Nexus", the core of the enemy's base. To do so, each Champion has their own spells
             and attacks to fight the other enemy Champions. The picture below is of the Summoner's Rift - the map that matches are played on. The team bases are the grey areas in the top-right and bottom-left corners, and the Nexuses are the largest glowing structures in each base.</p>
 
