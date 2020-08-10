@@ -1,8 +1,8 @@
 import React, {Component} from 'react';
-import Navigation from './navigation.jsx';
-import './navigation.css';
-import './article.css';
-import './friendecks.css'
+import Navigation from './Navigation.jsx';
+import './Navigation.css';
+import './Article.css';
+import './Friendecks.css'
 import fd_icon from './media/friendecks/fd-icon.png';
 import fd_lofi from './media/friendecks/fd-lofi.png';
 import fd_chip1 from './media/friendecks/fd-chip-front.png';

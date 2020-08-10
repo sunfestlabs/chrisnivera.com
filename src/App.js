@@ -1,8 +1,8 @@
 import React from 'react';
-import Home from './home.jsx';
-import Stopwatch from './stopwatch.jsx';
-import Friendecks from './friendecks.jsx';
-import IterativeDesign from './iterative_design.jsx';
+import Home from './Home.jsx';
+import Stopwatch from './Stopwatch.jsx';
+import Friendecks from './Friendecks.jsx';
+import IterativeDesign from './IterativeDesign.jsx';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 import './App.css';

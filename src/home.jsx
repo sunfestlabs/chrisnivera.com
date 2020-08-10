@@ -1,11 +1,11 @@
 import React, { Component } from 'react';
-import Navigation from './navigation.jsx';
-import Project from './project.jsx';
+import Navigation from './Navigation.jsx';
+import Project from './Project.jsx';
 import discordimg from './media/stopwatch/stopwatch-mockup.png';
 import friendecksimg from './media/friendecks/fd-mockup.png'
 import flexiblyimg from './media/flexibly/mockup.png'
 import ideimg from './media/ide/ide-iphone-mockup.png';
-import './home.css'
+import './Home.css'
 import selfPortrait from './media/chrisCroppedCircle.png'
 
 

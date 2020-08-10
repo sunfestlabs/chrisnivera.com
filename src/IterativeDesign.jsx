@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
-import Navigation from './navigation.jsx';
-import './navigation.css';
-import './article.css';
+import Navigation from './Navigation.jsx';
+import './Navigation.css';
+import './Article.css';
 import me_thumb from './media/ide/me_thumbnail.png';
 import lofi1 from './media/ide/lofi1.PNG';
 import lofi2 from './media/ide/lofi2.PNG';
@@ -26,7 +26,7 @@ import replay3 from './media/ide/replay1.PNG';
 import replay4 from './media/ide/replay1.PNG';
 
 
-import './iterative_design.css';
+import './IterativeDesign.css';
 import Carousel from 'react-bootstrap/Carousel';
 
 class IterativeDesign extends Component {

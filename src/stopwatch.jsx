@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import Navigation from './navigation.jsx'
-import './article.css';
-import './stopwatch.css';
+import Navigation from './Navigation.jsx'
+import './Article.css';
+import './Stopwatch.css';
 import disc_screenshot from './media/stopwatch/discord_screenshot.png';
 import lol_map from './media/stopwatch/lol_map.jpg';
 

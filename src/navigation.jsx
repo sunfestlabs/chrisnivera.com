@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import {Navbar, Nav} from 'react-bootstrap';
 import {Router, Link} from 'react-router-dom';
 import resume from './media/ChrisNiveraCVResume.pdf'
-import './navigation.css'
+import './Navigation.css'
 
 class Navigation extends Component {
 
