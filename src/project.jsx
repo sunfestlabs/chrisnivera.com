@@ -9,8 +9,8 @@ class Project extends Component {
   render(){
     return(
 
-      <div className="projectile" id={this.props.id}>
-        <img src={this.props.img} className="image" id={this.props.imgid}/>
+      <div className="projectile" id={this.props.id} data-aos="zoom-in" >
+        <img src={this.props.img} alt="" className="image" id={this.props.imgid} />
         <Link to={this.props.url}>
         <div className="overlay">
           <div className="text">

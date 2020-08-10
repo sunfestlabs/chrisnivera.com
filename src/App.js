@@ -5,6 +5,7 @@ import Friendecks from './friendecks.jsx';
 import IterativeDesign from './iterative_design.jsx';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
+import './App.css';
 
 function App() {
   return (

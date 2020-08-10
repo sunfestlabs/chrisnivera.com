@@ -1,23 +1,31 @@
-
 .aboutme{
   font-size: 20px;
   text-align: left;
   word-wrap: normal;
   margin-left: 16vw;
-  margin-top: 18vh;
+  margin-top: 10vh;
   width: 525px;
+  display: grid;
+  grid-template-columns: 300px auto;
 }
 
 .cta{
   font-size: 36px;
   font-weight: bold;
   margin-bottom: 20px;
+  grid-column: 1;
+}
+
+.intro {
+  word-wrap: normal;
+  width: 525px;
+  grid-column: 1;
+  padding-top: 8vh;
 }
 
 #worktitle{
   text-align: left;
   margin-left: 16vw;
-  padding-top: 40vh;
   margin-bottom: 5vw;
 }
 
@@ -29,4 +37,13 @@
   margin-left: 16vw;
   margin-right: 12vw;
   margin-bottom: 5vh;
+}
+
+.portrait-container {
+  margin-left: 28vw;
+}
+
+.self-portrait {
+  width: 25vw;
+  min-width: 300px;
 }
