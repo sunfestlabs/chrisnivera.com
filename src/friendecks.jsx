@@ -25,8 +25,7 @@ class Friendecks extends Component {
           <h2 className="proj-title-2">Problem Space</h2>
           <p>In an era where social media allows us to stay connected with someone through a few clicks, we can easily forget what it really means to be friends with someone. Although things like Snapchat stories give us a glimpse into our friends&#39; lives, little of our online interaction is real face-to-face activity. Social media becomes a platform through which we can put on a mask, and we start to lose the authenticity of getting to know another person.</p>
 
-
-    </div>
+        </div>
 
         <div id="the-solution" className="proj-section">
           <h2 className="proj-title-2">The Solution</h2>
