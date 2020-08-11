@@ -5,6 +5,10 @@ import './Navigation.css'
 
 class Navigation extends Component {
 
+  componentDidMount() {
+    window.scrollTo(0, 0);
+  }
+
   render(){
     return(
       <div>
