@@ -1,6 +1,6 @@
 .projectile{
-  width: 35vw;
-  height: 25vw;
+  width: 100%;
+  height: auto;
   position: relative;
 }
 
@@ -35,8 +35,20 @@
 
 .subtitle {
   font-weight: 300;
+  width: 90%;
 }
 
 .name {
   font-weight: 690;
+}
+
+@media screen and (max-width: 1000px) {
+  .projectile{
+    width: 70vw;
+    height: auto;
+  }
+
+  .text {
+    font-size: 14px;
+  }
 }

@@ -12,9 +12,29 @@
   padding-top: 5px;
 }
 
+.burger-menu {
+  display: none;
+}
+
 .navbar-light .navbar-text a:hover {
   color: #fc7e65 !important;
   border-bottom: 1px solid;
   padding-bottom: 3px;
   border-width: 50%;
+}
+
+@media screen and (max-width: 1000px) {
+  .burger-menu {
+    display: inline;
+    margin-top: 5px;
+    margin-right: 20px;
+  }
+
+  .links {
+    display: none;
+  }
+
+  #brand {
+    padding-left: 10vw;
+  }
 }

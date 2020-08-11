@@ -1,10 +1,10 @@
 .aboutme{
-  font-size: 20px;
+  font-size: 1.2em;
   text-align: left;
   word-wrap: normal;
   margin-left: 16vw;
   margin-top: 10vh;
-  width: 525px;
+  width: 40vw;
   display: grid;
   grid-template-columns: 300px auto;
 }
@@ -18,7 +18,7 @@
 
 .intro {
   word-wrap: normal;
-  width: 525px;
+  width: 30vw;
   grid-column: 1;
   padding-top: 8vh;
 }
@@ -31,19 +31,54 @@
 
 .projects{
   display: grid;
-  grid-template-columns: 35vw 35vw;
-  grid-column-gap: 2vw;
+  grid-template-columns: 32vw 32vw;
+  grid-column-gap: 1.2vw;
   grid-row-gap: 1.2vw;
   margin-left: 16vw;
   margin-right: 12vw;
   margin-bottom: 5vh;
+  width: 50vw;
 }
 
 .portrait-container {
-  margin-left: 28vw;
+  margin-left: 23vw;
 }
 
 .self-portrait {
   width: 25vw;
-  min-width: 300px;
+  min-width: 250px;
+}
+
+
+@media screen and (max-width: 1150px) {
+  .aboutme {
+    width: 80vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 8vw;
+    margin-top: 10vh;
+  }
+
+  .intro {
+    width: 70vw;
+  }
+  .portrait-container {
+    padding-top: 8vh;
+    padding-right: 25vw;
+  }
+
+  .self-portrait {
+    width: 45vw;
+    min-width: 250px;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+
+  
+
+  .projects{
+    grid-template-columns: 80vw;
+  }
 }
