@@ -29,4 +29,9 @@
     width: 60vw;
     height: auto;
   }
+
+  .proj-text{
+    margin-left: 10vw;
+    width: 80vw;
+  }
 }
