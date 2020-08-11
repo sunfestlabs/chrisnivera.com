@@ -23,3 +23,11 @@
 .hr-carousel-img {
   height: 13vw;
 }
+
+
+@media screen and (max-width: 1000px) {
+  #me-thumbnail {
+    width: 60vw;
+  }
+
+}

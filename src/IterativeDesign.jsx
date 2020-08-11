@@ -51,7 +51,7 @@ class IterativeDesign extends Component {
           </p>
 
 
-          <img className="proj-img" src={me_thumb} alt=""/>
+          <img className="proj-img" id="me-thumbnail" src={me_thumb} alt=""/>
         </div>
 
         <div className="proj-section">

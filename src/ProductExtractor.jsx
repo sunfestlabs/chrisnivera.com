@@ -30,8 +30,8 @@ class ProductExtractor extends React.Component {
                             with a slideshow of all of the asset's images. Most importantly, each piece of text is outlined by its own bounding box, and users are simply able to click on each bounding box to fill in the fields as you see on the right - no more having to type
                             each piece out manually! Once finished, the data is sent off to Airtable, where other processes such as price estimation can be kicked off.
 
-                            <img src={initExtr} alt="" className="proj-img" id="init-extraction" />
-                            <img src={midExtr} alt="" className="proj-img" id="mid-extraction" />
+                            <img src={initExtr} alt="" className="proj-img medinas-img" id="init-extraction" />
+                            <img src={midExtr} alt="" className="proj-img medinas-img" id="mid-extraction" />
                         </p>
 
                     </div>
