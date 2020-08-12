@@ -30,10 +30,10 @@ class Navigation extends Component {
     return(
       <div>
 
-      <Navbar className="navbar" fixed="top">
+      <Navbar className="navbar" fixed="top" id="top-anchor-navbar">
         <Sidebar openBurger={this.state.openBurger} handleClick={this.handleClick} />
         <Navbar.Brand className="mr-auto" id="brand" href="/">Chris Nivera</Navbar.Brand>
-        <HamburgerMenu className="burger-menu" isOpen={this.state.openBurger} menuClicked={this.handleClick} />
+        <HamburgerMenu className="burger-menu" isOpen={this.state.openBurger} menuClicked={this.handleClick} width={25} height={20}/>
         <div className="links">
           <Navbar.Text className="kekeke"><a href="https://github.com/sunfestlabs" target="_blank" rel="noopener noreferrer" className="nav-link" id="github-link">github</a></Navbar.Text>
           <Navbar.Text><a href="https://linkedin.com/in/christopher-nivera" target="_blank" rel="noopener noreferrer" className="nav-link" id="linkedin-link">linkedin</a></Navbar.Text>
