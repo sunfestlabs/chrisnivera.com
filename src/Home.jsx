@@ -20,7 +20,7 @@ class Home extends Component {
         <div className="aboutme" data-aos="fade-up">
           <div className="intro">
           <div className="cta">Hey, I'm Chris. </div>
-            I'm a senior studying CS at Brown with a focus on full-stack software engineering and UI/UX. This summer, I interned with the <a href="https://medinashealth.com" target="_blank" rel="noopener noreferrer">@medinas</a> team.
+            I'm a senior studying CS at Brown with a focus on full-stack software engineering and UI/UX. I'm currently an intern at <a href="https://evilgeniuses.gg/" target="_blank" rel="noopener noreferrer">@EvilGeniuses</a> working in Data/Tech.
             Scroll down to learn a bit more about my work!</div>
           <div className="portrait-container">
             <img src={selfPortrait} alt="" className="self-portrait" />
